@@ -150,6 +150,7 @@ describe('Teste da calculadora', () => {
         expect(resultado).toThrow("Não é um número");
         
     })
+    
 // Math.sqrt raiz
 // Math.pow potencia
 })
